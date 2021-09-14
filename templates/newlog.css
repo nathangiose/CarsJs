@@ -13,14 +13,12 @@ html,body{
     background-color: #777;
     font-size: 14px;
   letter-spacing: 1px;
-  background: url(https://media.giphy.com/media/f8UasmQwh6XdPA4zhA/giphy.gif) no-repeat center center #505050;   
-  background-size: cover;
 }
 
 .container{
     max-width: 390px;
     /* background-color: #fff; */
-    background: #8f8484;
+    background: url(/images/The-CodeFatherm.png) center center #8f8484;
     overflow: hidden;
     background-size: cover;
     padding: 30px;
